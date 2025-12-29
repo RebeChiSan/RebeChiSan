@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Rebeca! 👋 
 
-<!--
-**RebeChiSan/RebeChiSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### QA Engineer | Electronic Engineer
 
-Here are some ideas to get you started:
+Soy una **Ingeniera en Electrónica** apasionada por la calidad del software. Mi enfoque combina la precisión de la ingeniería con una mentalidad analítica para el diseño y ejecución de pruebas que garantizan productos digitales robustos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lo que me diferencia es mi **background como desarrolladora web**, lo que me permite entender el código, colaborar mejor con los equipos de desarrollo y construir automatizaciones y pruebas más eficientes.
+
+- 🌱 Estoy actualmente aprendiendo SQL y Rest Assured.
+- 🤔 Estoy interesada en aprender y participar en proyectos que incluyan el IA testing.
+---
+
+
+
+### 🛠️ Tech Stack & Tools
+
+| Categoría | Tecnologías |
+| --- | --- |
+| **Testing Automation** | Selenium (Java), Playwright (TypeScript/JS), Postman (API Testing) |
+| **Languages** | JavaScript, TypeScript, Java, HTML/CSS |
+| **Tools & IDEs** | Jira, Git/GitHub, VS Code, IntelliJ, Eclipse |
+| **Metodologías** | Agile (Scrum) |
+
+
+### 📫 Conecta conmigo:
+* **LinkedIn:** [linkedin.com/in/rebeca-c-santiago](https://www.linkedin.com/in/rebeca-c-santiago/)
+* **Email:** [rebeca.chinas@gmail.com](mailto:rebeca.chinas@gmail.com)
+
+![Visitas](https://komarev.com/ghpvc/?username=RebeChiSan&color=blue&style=flat-square&label=VISITAS+AL+PERFIL)
+
