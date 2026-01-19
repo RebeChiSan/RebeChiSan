@@ -24,7 +24,7 @@ Lo que me diferencia es mi **background como desarrolladora web**, lo que me per
 
 ### 📫 Conecta conmigo:
 * **LinkedIn:** [linkedin.com/in/rebeca-c-santiago](https://www.linkedin.com/in/rebeca-c-santiago/)
-* **Email:** [rebeca.chinas@gmail.com](mailto:rebeca.chinas@gmail.com)
+* **Email:** [chi.san.rebeca@gmail.com](mailto:chi.san.rebeca@gmail.com)
 
 ![Visitas](https://komarev.com/ghpvc/?username=RebeChiSan&color=blue&style=flat-square&label=VISITAS+AL+PERFIL)
 
